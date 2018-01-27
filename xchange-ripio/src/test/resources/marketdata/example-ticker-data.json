@@ -1,0 +1,84 @@
+{
+  "base":"BTC",
+  "rates":{
+    "PEN_SELL":44030.5698,
+    "CLP_SELL":8253680.724,
+    "COP_SELL":38821425.2145,
+    "ARS_BUY":273425.412,
+    "ARS_SELL":255021.7785,
+    "EUR_BUY":11328.3492,
+    "PEN_BUY":45846.2634,
+    "USD_SELL":13674.09,
+    "USD_BUY":14660.88,
+    "MXN_BUY":273631.2282,
+    "COP_BUY":40422308.7285,
+    "CLP_BUY":8594038.692,
+    "BRL_BUY":46835.16795,
+    "BRL_SELL":43667.57205,
+    "UYU_SELL":389438.0832,
+    "EUR_SELL":10923.7653,
+    "UYU_BUY":405497.3856,
+    "MXN_SELL":262900.5918
+  },
+  "names":{
+    "USD":{
+      "symbol":"$",
+      "name":"D\u00f3lar estadounidense"
+    },
+    "COP":{
+      "symbol":"$",
+      "name":"Peso Colombiano"
+    },
+    "ARS":{
+      "symbol":"$",
+      "name":"Pesos"
+    },
+    "UYU":{
+      "symbol":"$U",
+      "name":"Peso Uruguayo"
+    },
+    "MXN":{
+      "symbol":"$",
+      "name":"Peso Mexicano"
+    },
+    "PEN":{
+      "symbol":"S/",
+      "name":"Nuevo Sol Peruano"
+    },
+    "BRL":{
+      "symbol":"R$",
+      "name":"Reales"
+    },
+    "MNK":{
+      "symbol":"MNK",
+      "name":"MonkeyCoin"
+    },
+    "BTC":{
+      "symbol":"BTC",
+      "name":"Bitcoins"
+    },
+    "XTN":{
+      "symbol":"XTN",
+      "name":"Testnet"
+    },
+    "CLP":{
+      "symbol":"Ch$",
+      "name":"Peso Chileno"
+    },
+    "EUR":{
+      "symbol":"\u20ac",
+      "name":"Euro"
+    }
+  },
+  "variation":{
+    "MXN":-5837.59,
+    "COP":-891461.7,
+    "PEN":-1011.08,
+    "USD":-314.0,
+    "UYU":-6875.27,
+    "BRL":-1007.94,
+    "CLP":-188152.1,
+    "EUR":-257.48,
+    "ARS":-5718.27
+  }
+}

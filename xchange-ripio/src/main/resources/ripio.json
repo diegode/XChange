@@ -1,0 +1,20 @@
+{
+  "currency_pairs": {
+    "BTC/ARS": {
+      "trading_fee": 0.005
+    },
+    "ARS/BTC": {
+      "trading_fee": 0.005,
+      "min_amount": 200,
+      "max_amount": 50000
+    }
+  },
+  "currencies": {
+    "BTC": {
+      "withdrawal_fee": 0
+    },
+    "ARS": {
+      "withdrawal_fee": 0.015
+    }
+  }
+}
